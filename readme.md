@@ -64,4 +64,4 @@ Blog
 About
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/HirenPatel15620/count.svg)
