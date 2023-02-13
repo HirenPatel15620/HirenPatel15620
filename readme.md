@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋🏽, I'm Hiren Patel </h1>
+<h1 align="center"> Hey 👋 , I'm Hiren Patel ✌️ </h1>
 
 <h3 align="center">
     An awesome .Net Developer at <a href="https://www.tatvasoft.com/">Tatvasoft</a>.  
