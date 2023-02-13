@@ -7,8 +7,8 @@
 There is a some mini Project & assignment which is done in my training period 
 
 
-<h2> Hey there! I'm HirenPatel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm HirenPatel. </h2>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -35,7 +35,7 @@ There is a some mini Project & assignment which is done in my training period
 </br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirenPatel15620&layout=compact&theme=radical" alt="My Github Stats">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -62,3 +62,6 @@ API
 Training
 Blog
 About
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
