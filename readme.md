@@ -1,10 +1,10 @@
 <h1 align="center"> Hey 👋 , I'm Hiren Patel ✌️ </h1>
 
 <h3 align="center">
-    An awesome .Net Developer at <a href="https://www.tatvasoft.com/">Tatvasoft</a>.  
+    An awesome .Net Core Web Api Developer at <a href="https://www.tatvasoft.com/">Tatvasoft</a>.  
 </h3>
 
-There is a some mini Project & assignment which is done in my training period 
+There is a some mini Project & assignment which is done in my first 4-months of training period 
 
 
 <h2> Hey there! I'm HirenPatel. </h2>
@@ -13,20 +13,20 @@ There is a some mini Project & assignment which is done in my training period
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning .Net Framework
+- 🔭 &nbsp; I’m currently working on .Net Core Web Api
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 💼 &nbsp; .Net core web api and Back-end web Developer.
+- 🌱 &nbsp; Enthusiast in Back-end new framework and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | C++  
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Visual Studio code | Sublime | Android Studio | Git
+- 💻 &nbsp; .Net core Web Api | C# | C++  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; SQL 
+- 🔧 &nbsp; Visual Studio | Visual Studio code | Sublime | Git
 - 🖥 &nbsp; Adobe Xd 
 
 <br>
