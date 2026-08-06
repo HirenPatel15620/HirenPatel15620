@@ -1,5 +1,8 @@
-# 💫 About Me:
-👨🏻‍💻 About Me<br>🔭   I’m actively working as a Full-Stack Developer in a professional environment.<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🎓   Studying Computer Science, computer programming.<br>💼   Full stack developer (React + .Net core)<br>🌱   Enthusiast<br>✍️   Watching Anime and trying out latest design trends as hobbies/side hustles.<br>☕   I believe, a good & helpful team can be the ultimate solution for any stress.<br>🏢   production code and daily contributions are primarily within private enterprise repositories.
+[![Header](Header.png "Header")](https://hiren-cm9.pages.dev/)
+
+# Hello, folks! <img src="./wave.gif" width="30px" height="30px" />
+
+🔭   I’m actively working as a Full-Stack Developer in a professional environment.<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🎓   Studying Computer Science, computer programming.<br>💼   Full stack developer (React + .Net core)<br>🌱   Enthusiast<br>✍️   Watching Anime and trying out latest design trends as hobbies/side hustles.<br>☕   I believe, a good & helpful team can be the ultimate solution for any stress.<br>🏢   production code and daily contributions are primarily within private enterprise repositories.
 
 
 ## 🌐 Socials:
