@@ -2,7 +2,15 @@
 
 # Hello, folks! <img src="./wave.gif" width="30px" height="30px" />
 
-🔭   I’m actively working as a Full-Stack Developer in a professional environment.<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🎓   Studying Computer Science, computer programming.<br>💼   Full stack developer (React + .Net core)<br>🌱   Enthusiast<br>✍️   Watching Anime and trying out latest design trends as hobbies/side hustles.<br>☕   I believe, a good & helpful team can be the ultimate solution for any stress.<br>🏢   production code and daily contributions are primarily within private enterprise repositories.
+🔭 I’m working as a **Software Development Engineer**, building and maintaining production-grade software in a professional environment.<br>
+💻 Professional experience in **full-stack development**, primarily working with **React and .NET Core**.<br>
+🚀 Passionate about building scalable software, exploring new technologies, and solving real-world problems.<br>
+🛠️ Experienced in developing, maintaining, and contributing to **production applications and enterprise software**.<br>
+🌱 Always learning, experimenting with new technologies, and improving my engineering skills.<br>
+✍️ In my free time, I enjoy exploring the latest design and development trends and sometime watch an anime.<br>
+☕ I believe a good and supportive team can turn even challenging problems into solvable ones.<br>
+🏢 Most of my professional development work and daily contributions are within **private enterprise repositories**.
+
 
 
 ## 🌐 Socials:
