@@ -14,7 +14,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiren-patel-388a83236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hirenpatel.ict19@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-555?style=flat\&logo=googlechrome\&logoColor=white)](https://www.hvdstack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hiren-patel-388a83236/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:hirenpatel.ict19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-555?logo=googlechrome\&logoColor=white)](https://www.hvdstack.com/)
+
+
 
 
 
@@ -27,5 +31,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HirenPatel15620&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
