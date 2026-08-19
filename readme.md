@@ -1,4 +1,4 @@
-[![Hiren Patel](Header.png "Header")](https://www.hvdstack.com/)
+[![Hiren Patel](Header.png "Hiren Patel")](https://www.hvdstack.com/)
 
 # Hello, folks! <img src="./wave.gif" width="30px" height="30px" />
 
